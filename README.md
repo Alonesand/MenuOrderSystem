@@ -11,12 +11,12 @@ And menu.sql is given.
 
 Some screenshots while running:
 
-<img src="https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/userUI.png" style="zoom: 50%;" />
+![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/userUI.png)
 
-<img src="https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/searchUI.png" style="zoom:50%;" />
+![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/searchUI.png)
 
-<img src="https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/GodUI(Admin).png" style="zoom:50%;" />
+![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/GodUI(Admin).png)
 
 Given a sql screenshot(By Navicat for Mysql):
 
-<img src="https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/Mysql.png" style="zoom:60%;" />
+![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/Mysql.png)
