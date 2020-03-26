@@ -13,7 +13,7 @@ Some screenshots while running:
 
 if(picture == error){
 
-[How to show Github pictures]: https://www.jianshu.com/p/3eacebfc55ab
+​	go https://www.jianshu.com/p/3eacebfc55ab
 
 }else if(pictures shows slowly){
 
