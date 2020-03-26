@@ -11,6 +11,16 @@ And menu.sql is given.
 
 Some screenshots while running:
 
+if(picture == error){
+
+[How to show Github pictures]: https://www.jianshu.com/p/3eacebfc55ab
+
+}else if(pictures shows slowly){
+
+​	Fork and clone or download are good choices.
+
+}
+
 ![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/userUI.png)
 
 ![image](https://github.com/Alonesand/MenuOrderSystem/blob/master/screenshots/searchUI.png)
